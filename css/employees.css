@@ -1,4 +1,7 @@
+header {
+	text-align: center;
 
+}
 
 .employee{
 		
@@ -8,17 +11,21 @@
 		background-color: black;
 }
 
-
-.employeeimageholder{
+/*
+.employeeimageholder, .employeetextholder{
 		border-style: solid;
 		border-color: white;
+}*/
+
+h1 {
+	text-align:center;
 }
 
-
 .employeetextholder{
-	text-align: center;
+	text-align: left;
+	padding: 10px;
 	width: 400px;
 	height: 350px;
-	float: right;
+	display: inline-block;
 	background-color: gray;
 }
