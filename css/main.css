@@ -1,5 +1,7 @@
 
-
+body{
+	margin:0;
+}
 .jumbotron{
 	
 	background: green;
@@ -11,7 +13,9 @@
 .features{
 	margin:0 auto;
 	text-align: center;
+	max-width: 960px;
 	font-size:70px;
+	background-color: #E9FF67
 }
 
 #about{
@@ -30,16 +34,22 @@
 
 .icons{
 
-	width:150px;
-	height:150px;
-	display: inline-block;
-	margin:0 50;
+	width: 150px;
+    height: 80;
+    display: inline-block;
+    margin: 0 auto;
+    padding: 40px;
 }
 
-h1,h2{
+.icons:hover{
+	background-color: #E8580C
+}
+
+h2{
 	color:navy;
 	text-transform: uppercase;
 	text-align: center;
+
 }
 
 
