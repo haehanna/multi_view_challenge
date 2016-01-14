@@ -10,10 +10,15 @@ ul{
 }
 
 nav{
-	margin: 0 auto;
-	max-width:960px;
+	width:960px;
 	background-color: #E9FF67;
+	position: fixed;
+	left: 50%;
+	right:50%;
+	margin-left: -480px;
+
 }
+
 
 footer{
 	background-color: #E9FF67;
