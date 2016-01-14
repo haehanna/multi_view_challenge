@@ -1,6 +1,7 @@
 header {
 	text-align: center;
 	font-size: 40px;
+	padding-top: 100px;
 }
 
 .employee{
@@ -29,7 +30,7 @@ h1 {
 .employeetextholder{
 	text-align: left;
 	padding: 10px;
-	width: 625px;
+	width: 615px;
 	height: 370px;
 	display: inline-block;
 	vertical-align: top;
