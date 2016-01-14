@@ -3,7 +3,7 @@
 .employee{
 		
 		margin: 0 auto;
-		width: 800px;
+		width: 900px;
 		height: 400px;
 		background-color: black;
 }
@@ -16,5 +16,9 @@
 
 
 .employeetextholder{
-
+	text-align: center;
+	width: 400px;
+	height: 350px;
+	float: right;
+	background-color: gray;
 }
