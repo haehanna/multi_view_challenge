@@ -5,7 +5,7 @@ font-size: 36px;
 
 .team_box{
 	margin: 0 auto;
-	width: 700px;
+	width: 800px;
 	height: 200px;
 }
 
@@ -15,5 +15,5 @@ font-size: 36px;
 	background-color: lightgreen; 
 	position:inline-block;
 	float: left;
-	margin: 10px;
+	margin: 20px;
 }
