@@ -16,9 +16,9 @@ nav{
 	left: 50%;
 	right:50%;
 	margin-left: -480px;
+	z-index:2;
 
 }
-
 
 footer{
 	background-color: #E9FF67;
