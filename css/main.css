@@ -9,12 +9,18 @@
 	}
 
 
-.jumbotron, .features{
+.jumbotron{
 	
 	background: green;
 	max-width: 960px;
 	margin:0 auto;
 }
+
+.features{
+	margin:0 auto;
+	text-align: center;
+}
+
 #about{
 	text-align: center;
 	max-width:960px;
@@ -26,15 +32,16 @@
 
 .content-image{
 	width:100%;
+	text-align: center;
 }
 
 .icon{
 
 	width:150px;
 	height:150px;
-	margin:0 auto;
-	float:left;
-	background: blue;
+	display: inline-block;
+	margin:0 50;
+;	background: blue;
 }
 
 h1,h2{
@@ -42,3 +49,5 @@ h1,h2{
 	text-transform: uppercase;
 	text-align: center;
 }
+
+
