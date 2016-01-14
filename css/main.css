@@ -25,6 +25,14 @@ body{
 
 }
 
+.logo{
+	position: absolute;
+    top: 30%;
+    left: 40%;
+    font-size: 300px;
+    opacity: 0.4;
+}
+
 .mainphoto{
 	width:100%;
 	
