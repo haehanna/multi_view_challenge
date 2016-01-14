@@ -9,20 +9,29 @@ ul{
 	margin: 0px;
 }
 
-nav {
+nav{
 	margin: 0 auto;
 	max-width:960px;
 	background-color: #E9FF67;
 }
 
+footer{
+	background-color: #E9FF67;
+	height: 120px;
+	max-width:960px;
+	margin: 0 auto;
+}
+
 .footer_left{
 	float: left;
-	padding-left: 300px;
+	padding-top:20px;
+	padding-left:200px;
 }
 
 .footer_right{
 	float: right;
-	padding-right: 300px;
+	padding-top:20px;
+	padding-right:200px;
 }
 
 a{
