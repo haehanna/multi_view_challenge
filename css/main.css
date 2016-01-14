@@ -19,6 +19,7 @@
 .features{
 	margin:0 auto;
 	text-align: center;
+	font-size:70px;
 }
 
 #about{
@@ -28,20 +29,17 @@
 	margin:0 auto;
 
 }
+
+.mainphoto{
+	width:100%;	
 }
 
-.content-image{
-	width:100%;
-	text-align: center;
-}
-
-.icon{
+.icons{
 
 	width:150px;
 	height:150px;
 	display: inline-block;
 	margin:0 50;
-;	background: blue;
 }
 
 h1,h2{
